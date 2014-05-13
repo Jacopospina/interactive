@@ -1,0 +1,44 @@
+﻿$axure.loadCurrentPage({
+  "url":"privacy_policy.html",
+  "generationDate":new Date(1399905712419.98),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"ShoppingBagCounter",
+"ProductColor",
+"ShippingFirstName",
+"ShippingLastName",
+"ShippingStreet",
+"ShippingCity",
+"ShippingState",
+"ShippingZip"],
+  "page":{
+    "packageId":"9ad9414ce1ae4199b79d4686fa1963d7",
+    "type":"Axure:Page",
+    "name":"Privacy policy",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});
